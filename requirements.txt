@@ -1,0 +1,14 @@
+selenium
+requests
+PyQt5
+openpyxl
+pillow
+pypiwin32
+passlib
+winregistry
+packaging
+opencv-python
+PyQtWebKit
+PyQtWebEngine
+webdrivermanager
+pynput

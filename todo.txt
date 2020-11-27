@@ -1,0 +1,4 @@
+1- Dosya kısmı sürükle/bırak yapılacak.
+2- Ekran boyutu ayarlanacak.
+3- Önizlemede -Çoklu- Video Seçeneği
+4- Splash Ekrana 'border-radius' ekleme
